@@ -1,4 +1,5 @@
 ## Getting Started Backend
+Backend is built with node.js & express.js, and supports rate-limit 
 
 1. Go to backend directory,
 2. Run `npm install` to install dependencies
@@ -7,6 +8,7 @@
 
 
 ## Getting Started Mobile
+Mobile is built with react native, react-navigation, and redux-saga
 
 1. Go to mobile directory
 2. Run `npm install` to install dependencies
